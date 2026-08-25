@@ -1,4 +1,4 @@
-<img src="https://www.gitskins.com/api/section/wordmark?username=dhruvilmodi111&theme=aurora&style=terminal&label=Dhruvil+Modi&mode=dark" width="100%" alt="dhruvilmodi111 wordmark" />
+<img src="https://www.gitskins.com/api/section/wordmark?username=dhruvilmodi111&theme=aurora&style=terminal&label=Dhruvil+Modi&mode=light" width="100%" alt="dhruvilmodi111 wordmark" />
 
 <br>
 <br>
